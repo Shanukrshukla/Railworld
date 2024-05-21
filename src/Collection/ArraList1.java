@@ -35,10 +35,5 @@ public class ArraList1 {
 //        set.add(employee2);
 //        System.out.println("set "+ set);
         //Set<Integer>set1 =new HashSet<>();
-
-
-
-
-
     }
 }
